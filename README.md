@@ -2,12 +2,12 @@
 
 Arduino project to track bright stuff.  Finds a bright spot, like the sun, a ceiling light or lamp.  Dumb, right?
 
-See video.
+See [video](https://www.youtube.com/watch?v=_WIuzjIPW-E).
 
-Stuff:
-4 Photoresistors (inputs)
-2 Hitec HS-311 Servos (outputs)
-1 Arduino UNO
-1 breadboard
-4 10k resistors
-lots of wires
+Stuff:  
+* 4 Photoresistors (inputs)  
+* 2 Hitec HS-311 Servos (outputs)  
+* 1 Arduino UNO  
+* 1 breadboard  
+* 4 10k resistors  
+* lots of wires
